@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Problem Solving and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://tanishkaaswal21239.github.io/Portfolio_tanishka/](https://tanishkaaswal21239.github.io/Portfolio_tanishka/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tanishkaaswal21239.github.io/Portfolio_tanishka/)
 
 - 📫 How to reach me **tanishka.aswal2410@gmail.com**
 
